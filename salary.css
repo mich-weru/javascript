@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+}
+.money{
+    height: 100vh;
+    width: 100%;
+    background-image: url(coins.jpg);
+    background-size: cover;
+
+}
+.money input{
+    
+    color: white;
+    font-weight: bold;
+    background-color: rgb(32, 30, 33);
+    padding: 10px;
+    margin: 10px;
+   
+}
+.money button:hover{
+    color: black;
+    background-color: rgb(212, 21, 132);
+}
+.mic button{
+    margin: 10px;
+}
+.drop{
+    width: 100%;
+    height: 100px;
+}
